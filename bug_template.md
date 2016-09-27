@@ -7,6 +7,6 @@
   * 2b
 
 ### 备注
-iOS: 10.0.1
-Version: 1.1.0
-Build: 18
+- iOS: 10.0.1
+- Version: 1.1.0
+- Build: 18
